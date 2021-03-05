@@ -1,0 +1,16 @@
+@media (min-width:768px){
+    .svg-mob{
+        display: none;
+    }
+    .mob{
+        display: none;
+    }
+    .navbar-right{
+        top: 30px;
+        position: relative;
+    }
+    .nav-seleccionado{
+        padding-bottom: 3px !important;
+        border-bottom: 10px solid #efe0e4;
+    }
+}
